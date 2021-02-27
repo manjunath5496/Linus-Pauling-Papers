@@ -11,22 +11,22 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/master/tst(94).pdf" style="text-decoration:none;">The Architecture of Molecules</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/master/tst(221).pdf" style="text-decoration:none;">Modern structural chemistry [Nobel Lecture]</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(1).pdf" style="text-decoration:none;">The Nature of the Chemical Bond -1992</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(2).pdf" style="text-decoration:none;">The structure of proteins: Two hydrogen-bonded helical configurations of the polypeptide chain</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
-Constitution and Quantification in Event Semantics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(3).pdf" style="text-decoration:none;">Evolutionary Divergence and
+Convergence, in Proteins</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(4).pdf" style="text-decoration:none;">Sickle Cell Anemia, a Molecular Disease</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(5).pdf" style="text-decoration:none;">Atomic Radii dnd Interatomic Distances in Metals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(6).pdf" style="text-decoration:none;">The principles determining the structure of complex ionic crystals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(7).pdf" style="text-decoration:none;">The Magnetic Properties and Structure of Hemoglobin, Oxyhemoglobin and Carbonmonoxyhemoglobin</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(8).pdf" style="text-decoration:none;"> SupervisedWithin-Document Event Coreference using Information Propagation </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(8).pdf" style="text-decoration:none;"> The Oxygen Equilibrium of Hemoglobin and Its Structural Interpretation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(9).pdf" style="text-decoration:none;">The Structure of the Micas and Related Minerals</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(10).pdf" style="text-decoration:none;">Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(10).pdf" style="text-decoration:none;">The nature of metals</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
 Lexical diversity and event coreference resolution</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
