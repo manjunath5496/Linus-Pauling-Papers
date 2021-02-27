@@ -119,7 +119,7 @@
 </tr>
 <tr>
 <th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
-<td><a class="external text" href="https://thesis.library.caltech.edu/1791/" rel="nofollow"><em>The Determination with X-Rays of the Structures of Crystals</em></a>&nbsp;(1925<sup id="cite_ref-paulingphd_3-0" class="reference"></sup>)</td>
+<td><a class="external text" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(40).pdf" rel="nofollow"><em>The Determination with X-Rays of the Structures of Crystals</em></a>&nbsp;(1925<sup id="cite_ref-paulingphd_3-0" class="reference"></sup>)</td>
 </tr>
 <tr>
 <th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
