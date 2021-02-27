@@ -28,7 +28,7 @@ Convergence, in Proteins</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(10).pdf" style="text-decoration:none;">The nature of metals</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(11).pdf" style="text-decoration:none;">Nuclear disintegrations produced by cosmic rays</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(12).pdf" style="text-decoration:none;">The nature of the chemical bond. IV. The energy of single bonds and the relative electronegativity of atoms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(13).pdf" style="text-decoration:none;">Atomic Coordinates and Structure Factors for Two Helical Configurations of Polypeptide Chains</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Linus-Pauling-Papers/blob/main/l(14).pdf" style="text-decoration:none;">The Rotational Motion of Molecules in Crystals</a></li>
